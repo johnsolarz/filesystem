@@ -1,5 +1,4 @@
-## Job Number [ Job Number ] 
+[ Job Number ] 
+--------------
 
-Date      | Time      | Task       
---------- | --------- | --------- 
-[ Date ]  | [ Hours ] | [ Desc ] 
+Date - Time - Task       

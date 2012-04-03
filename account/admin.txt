@@ -1,22 +1,33 @@
-## Domain
+Contact
+-------
 
-[ Domain Registration ]
+[ Client info ]
 
-## Email
+Domain
+------
 
-[ Email Accounts ]
+[ Registration info ]
 
-## Hosting
+Emails
+------
 
-[ Hosting and FTP ]
+[ User accounts ]
 
-## Site
+Hosting
+-------
 
-[ Site Info ]
+[ FTP access ]
 
-## Vendors
 
-[ Vendor Access ]
+Site
+----
+
+[ Site access ]
+
+Vendors
+-------
+
+[ Vendor, social media ]
 
 
 
