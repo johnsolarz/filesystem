@@ -1,9 +1,3 @@
 # Assets 
 
-Includes subdirectories for all relevant content which has been collected from the client, created or used during development:
-
-- Copy
-- Fonts
-- Images
-- Stylesheets
-- Scripts
+Includes directories for all production content which has been shared by the client or created during development: copy, fonts, images, css, js, etc.

@@ -11,23 +11,22 @@ Domain
 Emails
 ------
 
-[ User accounts ]
+[ Accounts ]
 
 Hosting
 -------
 
-[ FTP access ]
-
+[ FTP info ]
 
 Site
 ----
 
-[ Site access ]
+[ Web info ]
 
 Vendors
 -------
 
-[ Vendor, social media ]
+[ External ]
 
 
 

@@ -1,14 +1,6 @@
 # Development
 
-Include all work prior to deliverable status here:
-
-- Concepts
-- Site maps
-- Wireframes
-- Mockups
-- Revisions
-
-New items created during development should be saved to their respective asset directory, with linked files and images referenced accordingly. 
+Include all working content here: concepts, wireframes, mockups, unflattened psd's or vector files. Usable items created during development should be saved into their respective Asset directory for production or Final directory if deliverable status.
 
 
 
