@@ -1,4 +1,4 @@
 Shared directory
 ----------------
 
-Asset collection using [Dropbox](http://db.tt/IpYXKK4).
+Client + collaborator asset collection using [Dropbox](http://db.tt/IpYXKK4).

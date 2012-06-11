@@ -1,4 +1,4 @@
 Reference directory
 -------------------
 
-Collection of relevant context. Use with [DropMark](http://www.dropmark.com).
+Mood board and peripheral context using [DropMark](http://www.dropmark.com).
