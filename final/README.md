@@ -1,3 +1,4 @@
-## Final
+Final/Site directory
+--------------------
 
-Contains all deliverables outlined in the project contract.
+All project and code deliverables.
