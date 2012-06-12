@@ -1,4 +1,4 @@
-Final/Site directory
---------------------
+Final / Site directory
+----------------------
 
-All project and code deliverables.
+All project or code deliverables.
