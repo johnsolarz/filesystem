@@ -1,5 +1,5 @@
-Admin directory
----------------
+Account directory
+-----------------
 
 - billing: receipts and invoices
 - contracts: proposal and agreement documents
