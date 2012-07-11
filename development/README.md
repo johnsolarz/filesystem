@@ -1,7 +1,7 @@
 Development directory
 ---------------------
 
-Designer concepts, asset and content creation.
+Designer concept, asset and content creation.
 
 
 
