@@ -1,4 +1,4 @@
 Final directory
 ---------------
 
-All project or code deliverables as defined per contract.
+All project and code deliverables as defined per contract.
