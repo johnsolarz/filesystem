@@ -16,17 +16,17 @@ Emails
 FTP
 ---
 
-[ Site info ]
+[ Host info ]
 
 Site
 ----
 
-[ Web info ]
+[ Site info ]
 
 Vendors
 -------
 
-[ Social, etc ]
+[ Vendor access ]
 
 
 

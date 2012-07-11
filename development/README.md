@@ -1,7 +1,7 @@
 Development directory
 ---------------------
 
-All working concepts, content and assets.
+Designer concepts, asset and content creation.
 
 
 

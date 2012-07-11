@@ -1,7 +1,4 @@
 Account directory
 -----------------
 
-- billing: receipts and invoices
-- contracts: proposal and agreement documents
-- admin.txt: project-realted access information
-- hours.txt: a log of date, time and tasks
+Administrative resources for billing receipts and invoices, contracts and work orders, admin.txt (access info) and hours.txt (date, time and tasks).
