@@ -6,7 +6,7 @@ Contact
 Domain
 ------
 
-[ Registration info ]
+[ Registration ]
 
 Emails
 ------
@@ -16,17 +16,14 @@ Emails
 FTP
 ---
 
-[ Host info ]
+[ Access info ]
 
 Site
 ----
 
-[ Site info ]
+[ Access info ]
 
 Vendors
 -------
 
-[ Vendor access ]
-
-
-
+[ Vendor info ]
