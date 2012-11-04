@@ -3,7 +3,7 @@ Project
 Folder structure for project administration, development and delivery.
 
 
-### [project title]
+## [project title]
 
 #### account/
 
