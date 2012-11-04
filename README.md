@@ -7,9 +7,9 @@ Folder structure for project administration, development and delivery.
 
 #### account/
 
-- billing/
 - contratcs/
 - admin.txt
+- billing.txt
 - hours.txt
 
 #### client/
