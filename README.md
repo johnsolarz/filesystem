@@ -1,9 +1,11 @@
 Project
--------
+=======
 Folder structure for project administration, development and delivery.
 
-account/
-========
+
+## project name
+
+### account/
 Client and project tracking.
 
 - billing/
@@ -11,12 +13,10 @@ Client and project tracking.
 - admin.txt
 - hours.txt
 
-client/
-======
+### client/
 Client resources.
 
-development/
-============
+### development/
 Project-specific assets.
 
 - copy/
@@ -24,6 +24,5 @@ Project-specific assets.
 - img/
 - layout/
 
-final/
-======
+### final/
 Client deliverables.
