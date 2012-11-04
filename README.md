@@ -3,26 +3,24 @@ Project
 Folder structure for project administration, development and delivery.
 
 
-## project name
+### [project title]
 
-### account/
-Client and project tracking.
+#### account/
 
 - billing/
 - contratcs/
 - admin.txt
 - hours.txt
 
-### client/
-Client resources.
+#### client/
+Pre-development client assets.
 
-### development/
-Project-specific assets.
+#### development/
 
 - copy/
 - fonts/
 - img/
 - layout/
 
-### final/
+#### final/
 Client deliverables.
