@@ -1,26 +1,25 @@
 Project
 =======
-Folder structure for project administration, development and delivery.
+file structure for project admin, development and delivery:
 
-
-## [project title]
-
-#### account/
-
+account
+-------
+- billing/
 - contratcs/
 - admin.txt
-- billing.txt
 - hours.txt
 
-#### client/
-Pre-development client assets.
+client content
+--------------
+client shared folder
 
-#### development/
-
+development
+-----------
 - copy/
 - fonts/
 - img/
 - layout/
 
-#### final/
-Client deliverables.
+final
+-----
+project deliverables, website directory

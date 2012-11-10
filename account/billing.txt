@@ -1,3 +1,0 @@
-Transaction History
--------------------
-Date	No.  Description	Billed	Paid	Balance

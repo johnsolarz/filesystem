@@ -1,4 +1,4 @@
-[ Job Number ] 
---------------
+[ Job Name ]
+------------
 Date	Time	Task
-[date]	[hours]	[description]   
+[date]	[hours]	[description]
