@@ -9,10 +9,6 @@ account
 - admin.txt
 - hours.txt
 
-client content
---------------
-client shared folder
-
 development
 -----------
 - copy/
@@ -22,4 +18,8 @@ development
 
 final
 -----
-project deliverables, website directory
+project deliverables, site
+
+shared
+------
+shared client folder, reference
