@@ -1,6 +1,6 @@
 Project
 =======
-file structure for project admin, development and delivery:
+Standard file structure for project admin, development and delivery.
 
 account
 -------
@@ -22,4 +22,4 @@ project deliverables, site
 
 shared
 ------
-shared client folder, reference
+shared client assets, reference
