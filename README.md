@@ -1,3 +1,5 @@
+# Project
+
 account
 - contratcs/
 - costs/
@@ -10,10 +12,10 @@ development
 - img/
 - layout/
 
+dropbox
+- shared folder
+
 final
 - project deliverables
 - documentation guide
 - source files
-
-shared
-- client asset collection
