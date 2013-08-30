@@ -1,7 +1,7 @@
 File Structure
 ==============
 
-Eight Seven Central file structure
+Eight Seven Central client/project file structure
 
 1. Resource: shared client assets and project references
 2. Wireframe: mapping diagrams, flowcharts and wireframes
