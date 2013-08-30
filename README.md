@@ -1,21 +1,15 @@
-# Project
+WP Dashboard
+============
 
-account
-- contratcs/
-- costs/
-- admin.txt
-- hours.txt
+Eight Seven Central file structure
 
-development
-- copy/
-- fonts/
-- img/
-- layout/
+1. Resource: shared client assets and project references
+2. Wireframe: mapping diagrams, flowcharts and wireframes
+3. Design: project asset and layout development
+4. Final: project deliverables
 
-dropbox
-- shared folder
+Author
+------
 
-final
-- project deliverables
-- documentation guide
-- source files
+John Solarz<br>
+[Eight Seven Central](http://eightsevencentral.com)
