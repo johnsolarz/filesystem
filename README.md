@@ -1,5 +1,5 @@
-WP Dashboard
-============
+File Structure
+==============
 
 Eight Seven Central file structure
 
