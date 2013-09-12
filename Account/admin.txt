@@ -1,0 +1,23 @@
+Contact
+-------
+[ Client info ]
+
+Domain
+------
+[ Registration info ]
+
+Emails
+------
+[ Accounts info ]
+
+FTP
+---
+[ Access info ]
+
+Site
+----
+[ Access info ]
+
+Vendors
+-------
+[ Vendor info ]
