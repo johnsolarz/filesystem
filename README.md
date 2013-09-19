@@ -1,29 +1,23 @@
-Project Structure
-=================
+File Structure
+==============
 
-Eight Seven Central folder structure and file naming system.
-
-Account Folder Structure
-------------------------
-
-1. Contracts: proposals and sign offs
-2. Receipts: hard costs and other records
-3. admin.txt: client and vendor access info
+Eight Seven Central project and file naming system.
 
 Project Folder Structure
 ------------------------
 
-1. Resources: shared client assets and project references
-2. Wireframes: mapping diagrams, site maps, and flowcharts
-3. Development: project mock ups, design, and iteration
-4. Final: project deliverables
+1. Client: Contract, sign offs, hard costs, and admin file
+2. Resources: shared client assets and project references
+3. Wireframes: mapping diagrams, site maps, and flowcharts
+4. Development: project mock ups, design, and iteration
+5. Production: project deliverables
 
 File Naming Convention
 ----------------------
 
 Filename platform Direction Iteration.ext
 
-Example: `Home mob 1a.psd`
+Example: `Home mobile 1a.psd`
 
 Author
 ------
