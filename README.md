@@ -1,22 +1,13 @@
 # File Structure
 
-Eight Seven Central project directory and file naming.
-
-## Project Folder Structure
-
-1. Admin: Contracts, sign offs, hard costs and access info
-2. Discovery: shared client files, resources and evaluations
-3. Mapping: usability diagrams, site maps and flowcharts
-4. Design: mock ups, asset development and iterations
-5. Production: code and deliverables
+Project filesystem
 
 ## File Naming Convention
 
-Filename platform Direction Iteration.ext
+Client Filename Platform Iteration.extension
 
-Example: `Home mobile 1a.ai`
+Example: `Moo Home Mobile 1.0.ai`
 
 # Author
 
-John Solarz<br>
-[Eight Seven Central](http://eightsevencentral.com)
+John Solarz
